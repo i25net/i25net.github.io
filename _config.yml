@@ -1,0 +1,8 @@
+title: I25net.GitHub.io
+description: 小松博客
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-time-machine
+
+gems:
+  - jekyll-mentions
